@@ -1,4 +1,7 @@
-- 👋 Hi, I’m ankam kiran teja
+### Hey Everyone! I am kiran teja 👋
+
+
+
 - 👀 I’m interested in ...updates in new technologies
 - 🌱 I’m currently learning ... Shell scripting
 - 📫 How to reach me ...kiranteja.ankam@gmail.com
